@@ -1,0 +1,10 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  
+  "repository": {
+    "type": "git",
+    "url": ".?"
+  },
+  "author": "Biswajeet",
+}
